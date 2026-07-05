@@ -48,6 +48,11 @@ Extract-Transform-Load pipeline agent that designs data pipelines, generates tra
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 etl-agent/
 │
